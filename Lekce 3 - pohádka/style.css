@@ -1,0 +1,109 @@
+html { 
+        background: url(https://orig00.deviantart.net/ffb2/f/2011/326/d/3/free_web_background_by_kgombocka-d4gz410.jpg) repeat center center fixed; 
+        background-size: cover;
+    }
+     
+    div {
+        display: block;
+        width: 600px;
+        position:absolute;
+        left: 33.5%;
+        right: 30%;
+        overflow:visible;
+        justify-content: center
+    }
+
+    li {
+        width: 500px;
+        left: 30%;
+        right: 60%;
+    }
+
+    p {
+        color: #999999;
+        text-align: justify; 
+        line-height: normal;
+        font-family: Adobe Ming Std L;
+        font-size: 20px;
+        font-weight: normal;
+        margin-bottom: auto;
+        float: inherit;
+        padding: inherit;
+    }
+
+    h1 {
+        color: black;
+        border-style: double;
+        border-width: 10px;
+        border-color: #999999;
+        text-align: center; 
+        line-height: normal;
+        font-family: AR CHRISTY;
+        font-size: 30px;
+        font-weight: bolder;
+     }
+
+     h2 {
+        color: #595959; 
+        text-align: center;
+        font-size: 25px;
+        justify-content: flex-end;
+     }
+     
+      .zanr {
+        color: black;
+        text-align: center; 
+        line-height: normal;
+        font-family: AR CHRISTY;
+        font-size: 30px;
+        font-weight: bolder;  
+     }
+     
+     footer {
+        text-transform: uppercase;
+	color: black; 
+	line-height: normal;
+        font-family: AR CHRISTY;
+        font-size: 30px;
+        font-weight: bolder; 
+     }
+     
+     i {
+         color: #595959;
+     }
+     
+     #zaver {
+        color: #595959; 
+        text-align: center;
+        font-size: 25px;
+        justify-content: flex-end;
+     }
+  
+     
+     .autor, .zdroj {
+        color: #595959;
+        text-align:center; 
+        line-height: small;
+        font-family: Adobe Ming Std L;
+        font-size: 12px;
+        font-weight:small;
+     }
+     
+     blockquote {
+        color: black;
+        text-decoration: underline;
+     }
+     
+     a {
+     color: blue;
+     text-decoration:underline;
+     }
+
+     a:visited {
+     color: pink;
+     }
+
+     a:hover {
+     text-decoration: none;
+     }
+    
